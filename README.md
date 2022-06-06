@@ -1,1 +1,1 @@
-https://Flash_Ed.github.io/rsschool-cv/cv
+https://FlashEd87.github.io/rsschool-cv/cv
