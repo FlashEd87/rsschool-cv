@@ -5,3 +5,5 @@
 * __Tel:__ +79651992297
 ## About myself:
 I want to learn Front-End Development in __RSSchool!__
+## Language:
+English *Level - A1*
